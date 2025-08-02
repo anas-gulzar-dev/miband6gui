@@ -1,0 +1,424 @@
+{
+  "timestamp": "2025-07-09 13:43:48",
+  "window_title": "CAM-L21",
+  "raw_text": "CAM-L21\nTelenor @ •\n+923208463188\n5 June 2025\n6 Messages and calls are end-to-end\nencrypted. Only people in this chat can read,\nlisten to, or share them. Learn more.\nAssalamualaikum\n11:30 am\nKesi hain ap dear\n11:30 am\n1:43 PM\nc\nMessage\n+923208463188\nAssalamualaikum\nWalaikum salam\n12:31 pm V/\nSister kasi hai\n12:31 pm V/\n+923208463188\nKesi hain ap dear\nAlhumdullilah\n12:31 pm v\no",
+  "full_ocr_result": {
+    "language": "en",
+    "textAngle": 0.0,
+    "orientation": "Up",
+    "regions": [
+      {
+        "boundingBox": "15,11,360,406",
+        "lines": [
+          {
+            "boundingBox": "38,11,47,9",
+            "words": [
+              {
+                "boundingBox": "38,11,47,9",
+                "text": "CAM-L21"
+              }
+            ]
+          },
+          {
+            "boundingBox": "15,122,94,15",
+            "words": [
+              {
+                "boundingBox": "15,123,52,12",
+                "text": "Telenor"
+              },
+              {
+                "boundingBox": "73,122,15,15",
+                "text": "@"
+              },
+              {
+                "boundingBox": "95,122,14,14",
+                "text": "•"
+              }
+            ]
+          },
+          {
+            "boundingBox": "95,169,147,16",
+            "words": [
+              {
+                "boundingBox": "95,169,147,16",
+                "text": "+923208463188"
+              }
+            ]
+          },
+          {
+            "boundingBox": "182,228,84,12",
+            "words": [
+              {
+                "boundingBox": "182,228,7,12",
+                "text": "5"
+              },
+              {
+                "boundingBox": "193,228,34,12",
+                "text": "June"
+              },
+              {
+                "boundingBox": "231,228,35,12",
+                "text": "2025"
+              }
+            ]
+          },
+          {
+            "boundingBox": "97,272,256,16",
+            "words": [
+              {
+                "boundingBox": "97,272,11,14",
+                "text": "6"
+              },
+              {
+                "boundingBox": "115,273,70,15",
+                "text": "Messages"
+              },
+              {
+                "boundingBox": "189,273,24,12",
+                "text": "and"
+              },
+              {
+                "boundingBox": "218,273,31,12",
+                "text": "calls"
+              },
+              {
+                "boundingBox": "254,276,21,9",
+                "text": "are"
+              },
+              {
+                "boundingBox": "280,273,73,12",
+                "text": "end-to-end"
+              }
+            ]
+          },
+          {
+            "boundingBox": "73,291,302,15",
+            "words": [
+              {
+                "boundingBox": "73,291,72,15",
+                "text": "encrypted."
+              },
+              {
+                "boundingBox": "150,291,30,15",
+                "text": "Only"
+              },
+              {
+                "boundingBox": "184,291,46,15",
+                "text": "people"
+              },
+              {
+                "boundingBox": "235,291,11,12",
+                "text": "in"
+              },
+              {
+                "boundingBox": "250,291,25,12",
+                "text": "this"
+              },
+              {
+                "boundingBox": "279,291,30,12",
+                "text": "chat"
+              },
+              {
+                "boundingBox": "313,294,25,9",
+                "text": "can"
+              },
+              {
+                "boundingBox": "342,291,33,14",
+                "text": "read,"
+              }
+            ]
+          },
+          {
+            "boundingBox": "101,309,247,14",
+            "words": [
+              {
+                "boundingBox": "101,309,36,12",
+                "text": "listen"
+              },
+              {
+                "boundingBox": "140,310,18,13",
+                "text": "to,"
+              },
+              {
+                "boundingBox": "162,312,14,9",
+                "text": "or"
+              },
+              {
+                "boundingBox": "180,309,38,12",
+                "text": "share"
+              },
+              {
+                "boundingBox": "222,309,39,12",
+                "text": "them."
+              },
+              {
+                "boundingBox": "266,309,38,12",
+                "text": "Learn"
+              },
+              {
+                "boundingBox": "309,312,39,9",
+                "text": "more."
+              }
+            ]
+          },
+          {
+            "boundingBox": "40,354,152,15",
+            "words": [
+              {
+                "boundingBox": "40,354,152,15",
+                "text": "Assalamualaikum"
+              }
+            ]
+          },
+          {
+            "boundingBox": "211,365,58,11",
+            "words": [
+              {
+                "boundingBox": "211,365,34,11",
+                "text": "11:30"
+              },
+              {
+                "boundingBox": "249,367,20,9",
+                "text": "am"
+              }
+            ]
+          },
+          {
+            "boundingBox": "41,395,146,19",
+            "words": [
+              {
+                "boundingBox": "41,396,36,14",
+                "text": "Kesi"
+              },
+              {
+                "boundingBox": "83,395,35,15",
+                "text": "hain"
+              },
+              {
+                "boundingBox": "124,399,20,15",
+                "text": "ap"
+              },
+              {
+                "boundingBox": "150,395,37,15",
+                "text": "dear"
+              }
+            ]
+          },
+          {
+            "boundingBox": "205,406,58,11",
+            "words": [
+              {
+                "boundingBox": "205,406,34,11",
+                "text": "11:30"
+              },
+              {
+                "boundingBox": "243,409,20,8",
+                "text": "am"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "376,124,56,12",
+        "lines": [
+          {
+            "boundingBox": "376,124,56,12",
+            "words": [
+              {
+                "boundingBox": "376,124,29,12",
+                "text": "1:43"
+              },
+              {
+                "boundingBox": "410,124,22,12",
+                "text": "PM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "11,442,9,11",
+        "lines": [
+          {
+            "boundingBox": "11,442,9,11",
+            "words": [
+              {
+                "boundingBox": "11,442,9,11",
+                "text": "c"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "66,791,87,29",
+        "lines": [
+          {
+            "boundingBox": "66,791,87,29",
+            "words": [
+              {
+                "boundingBox": "66,791,87,29",
+                "text": "Message"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "176,452,237,420",
+        "lines": [
+          {
+            "boundingBox": "184,452,123,13",
+            "words": [
+              {
+                "boundingBox": "184,452,123,13",
+                "text": "+923208463188"
+              }
+            ]
+          },
+          {
+            "boundingBox": "183,474,132,14",
+            "words": [
+              {
+                "boundingBox": "183,474,132,14",
+                "text": "Assalamualaikum"
+              }
+            ]
+          },
+          {
+            "boundingBox": "176,506,139,15",
+            "words": [
+              {
+                "boundingBox": "176,506,82,15",
+                "text": "Walaikum"
+              },
+              {
+                "boundingBox": "265,506,50,15",
+                "text": "salam"
+              }
+            ]
+          },
+          {
+            "boundingBox": "327,514,82,16",
+            "words": [
+              {
+                "boundingBox": "327,516,32,11",
+                "text": "12:31"
+              },
+              {
+                "boundingBox": "365,519,19,11",
+                "text": "pm"
+              },
+              {
+                "boundingBox": "390,514,19,13",
+                "text": "V/"
+              }
+            ]
+          },
+          {
+            "boundingBox": "197,577,118,16",
+            "words": [
+              {
+                "boundingBox": "197,578,49,15",
+                "text": "Sister"
+              },
+              {
+                "boundingBox": "252,577,33,16",
+                "text": "kasi"
+              },
+              {
+                "boundingBox": "292,577,23,16",
+                "text": "hai"
+              }
+            ]
+          },
+          {
+            "boundingBox": "327,586,82,15",
+            "words": [
+              {
+                "boundingBox": "327,587,32,12",
+                "text": "12:31"
+              },
+              {
+                "boundingBox": "365,590,19,11",
+                "text": "pm"
+              },
+              {
+                "boundingBox": "389,586,20,12",
+                "text": "V/"
+              }
+            ]
+          },
+          {
+            "boundingBox": "206,655,124,13",
+            "words": [
+              {
+                "boundingBox": "206,655,124,13",
+                "text": "+923208463188"
+              }
+            ]
+          },
+          {
+            "boundingBox": "207,677,127,17",
+            "words": [
+              {
+                "boundingBox": "207,678,30,12",
+                "text": "Kesi"
+              },
+              {
+                "boundingBox": "244,677,29,13",
+                "text": "hain"
+              },
+              {
+                "boundingBox": "279,681,17,13",
+                "text": "ap"
+              },
+              {
+                "boundingBox": "301,677,33,13",
+                "text": "dear"
+              }
+            ]
+          },
+          {
+            "boundingBox": "199,711,116,15",
+            "words": [
+              {
+                "boundingBox": "199,711,116,15",
+                "text": "Alhumdullilah"
+              }
+            ]
+          },
+          {
+            "boundingBox": "327,721,86,15",
+            "words": [
+              {
+                "boundingBox": "327,721,32,11",
+                "text": "12:31"
+              },
+              {
+                "boundingBox": "365,724,19,11",
+                "text": "pm"
+              },
+              {
+                "boundingBox": "400,728,13,8",
+                "text": "v"
+              }
+            ]
+          },
+          {
+            "boundingBox": "213,851,22,21",
+            "words": [
+              {
+                "boundingBox": "213,851,22,21",
+                "text": "o"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "modelVersion": "2021-04-01"
+  },
+  "image_path": "screenshots\\images\\manual_captures\\manual_background_20250709_134345_2027.png"
+}

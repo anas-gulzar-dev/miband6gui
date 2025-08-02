@@ -1,0 +1,663 @@
+{
+  "timestamp": "2025-07-09 02:19:21",
+  "window_title": "New Incognito tab - Google Chrome",
+  "raw_text": "New Incognito tab\nC q Search Google or type a URL\nYou've gone Incognito\nOthers who use this device won't see your activity, so you can browse more privately. This won't\nchange how data is collected by websites that you visit and the services that they use, including\nGoogle. Downloads, bookmarks and reading list items will be saved.\nIncognito\nAll Bookmarks\nChrome won't save:\n• Your browsing history\nCookies and site data\n• Information entered in forms\nThird-party cookies are blocked\nYour activity might still be visible to:\nWebsites that you visit\n• Your employer or school\n• Your Internet service provider\nWhen you're in Incognito mode, sites can't use third-party cookies. If a site that relies on\nthese cookies isn't working, you can tuqiving that site access to third-party\ncookies.",
+  "full_ocr_result": {
+    "language": "en",
+    "textAngle": 0.0,
+    "orientation": "Up",
+    "regions": [
+      {
+        "boundingBox": "81,24,1178,433",
+        "lines": [
+          {
+            "boundingBox": "81,24,97,12",
+            "words": [
+              {
+                "boundingBox": "81,24,23,9",
+                "text": "New"
+              },
+              {
+                "boundingBox": "108,24,49,12",
+                "text": "Incognito"
+              },
+              {
+                "boundingBox": "161,24,17,9",
+                "text": "tab"
+              }
+            ]
+          },
+          {
+            "boundingBox": "96,65,246,14",
+            "words": [
+              {
+                "boundingBox": "96,65,12,12",
+                "text": "C"
+              },
+              {
+                "boundingBox": "139,65,12,12",
+                "text": "q"
+              },
+              {
+                "boundingBox": "165,66,41,10",
+                "text": "Search"
+              },
+              {
+                "boundingBox": "210,66,45,13",
+                "text": "Google"
+              },
+              {
+                "boundingBox": "259,69,13,7",
+                "text": "or"
+              },
+              {
+                "boundingBox": "276,67,27,12",
+                "text": "type"
+              },
+              {
+                "boundingBox": "307,69,6,7",
+                "text": "a"
+              },
+              {
+                "boundingBox": "318,66,24,10",
+                "text": "URL"
+              }
+            ]
+          },
+          {
+            "boundingBox": "859,353,217,21",
+            "words": [
+              {
+                "boundingBox": "859,353,63,16",
+                "text": "You've"
+              },
+              {
+                "boundingBox": "929,358,48,16",
+                "text": "gone"
+              },
+              {
+                "boundingBox": "986,353,90,21",
+                "text": "Incognito"
+              }
+            ]
+          },
+          {
+            "boundingBox": "668,404,591,13",
+            "words": [
+              {
+                "boundingBox": "668,404,41,10",
+                "text": "Others"
+              },
+              {
+                "boundingBox": "713,404,26,10",
+                "text": "who"
+              },
+              {
+                "boundingBox": "744,407,21,7",
+                "text": "use"
+              },
+              {
+                "boundingBox": "768,404,22,10",
+                "text": "this"
+              },
+              {
+                "boundingBox": "794,404,40,10",
+                "text": "device"
+              },
+              {
+                "boundingBox": "837,404,35,10",
+                "text": "won't"
+              },
+              {
+                "boundingBox": "876,407,20,7",
+                "text": "see"
+              },
+              {
+                "boundingBox": "900,407,28,10",
+                "text": "your"
+              },
+              {
+                "boundingBox": "932,404,45,13",
+                "text": "activity,"
+              },
+              {
+                "boundingBox": "982,407,13,7",
+                "text": "so"
+              },
+              {
+                "boundingBox": "1000,407,22,10",
+                "text": "you"
+              },
+              {
+                "boundingBox": "1027,407,20,7",
+                "text": "can"
+              },
+              {
+                "boundingBox": "1053,404,43,10",
+                "text": "browse"
+              },
+              {
+                "boundingBox": "1101,407,32,7",
+                "text": "more"
+              },
+              {
+                "boundingBox": "1137,404,55,13",
+                "text": "privately."
+              },
+              {
+                "boundingBox": "1196,404,24,10",
+                "text": "This"
+              },
+              {
+                "boundingBox": "1224,404,35,10",
+                "text": "won't"
+              }
+            ]
+          },
+          {
+            "boundingBox": "668,424,587,13",
+            "words": [
+              {
+                "boundingBox": "668,424,45,13",
+                "text": "change"
+              },
+              {
+                "boundingBox": "718,424,25,10",
+                "text": "how"
+              },
+              {
+                "boundingBox": "747,424,27,10",
+                "text": "data"
+              },
+              {
+                "boundingBox": "779,424,8,10",
+                "text": "is"
+              },
+              {
+                "boundingBox": "792,424,54,10",
+                "text": "collected"
+              },
+              {
+                "boundingBox": "851,424,15,13",
+                "text": "by"
+              },
+              {
+                "boundingBox": "869,424,53,10",
+                "text": "websites"
+              },
+              {
+                "boundingBox": "926,424,25,10",
+                "text": "that"
+              },
+              {
+                "boundingBox": "954,427,23,10",
+                "text": "you"
+              },
+              {
+                "boundingBox": "981,424,25,10",
+                "text": "visit"
+              },
+              {
+                "boundingBox": "1010,424,22,10",
+                "text": "and"
+              },
+              {
+                "boundingBox": "1036,424,20,10",
+                "text": "the"
+              },
+              {
+                "boundingBox": "1061,424,47,10",
+                "text": "services"
+              },
+              {
+                "boundingBox": "1112,424,25,10",
+                "text": "that"
+              },
+              {
+                "boundingBox": "1140,424,28,13",
+                "text": "they"
+              },
+              {
+                "boundingBox": "1172,427,23,8",
+                "text": "use,"
+              },
+              {
+                "boundingBox": "1200,424,55,13",
+                "text": "including"
+              }
+            ]
+          },
+          {
+            "boundingBox": "668,444,418,13",
+            "words": [
+              {
+                "boundingBox": "668,444,48,13",
+                "text": "Google."
+              },
+              {
+                "boundingBox": "721,444,70,11",
+                "text": "Downloads,"
+              },
+              {
+                "boundingBox": "797,444,67,10",
+                "text": "bookmarks"
+              },
+              {
+                "boundingBox": "868,444,23,10",
+                "text": "and"
+              },
+              {
+                "boundingBox": "896,444,46,13",
+                "text": "reading"
+              },
+              {
+                "boundingBox": "947,444,17,10",
+                "text": "list"
+              },
+              {
+                "boundingBox": "968,444,33,10",
+                "text": "items"
+              },
+              {
+                "boundingBox": "1005,444,19,10",
+                "text": "will"
+              },
+              {
+                "boundingBox": "1030,444,14,10",
+                "text": "be"
+              },
+              {
+                "boundingBox": "1049,444,37,10",
+                "text": "saved."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "1822,66,91,46",
+        "lines": [
+          {
+            "boundingBox": "1822,66,49,12",
+            "words": [
+              {
+                "boundingBox": "1822,66,49,12",
+                "text": "Incognito"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1838,103,75,9",
+            "words": [
+              {
+                "boundingBox": "1838,103,13,9",
+                "text": "All"
+              },
+              {
+                "boundingBox": "1856,103,57,9",
+                "text": "Bookmarks"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "667,488,253,137",
+        "lines": [
+          {
+            "boundingBox": "668,488,121,10",
+            "words": [
+              {
+                "boundingBox": "668,488,49,10",
+                "text": "Chrome"
+              },
+              {
+                "boundingBox": "721,488,34,10",
+                "text": "won't"
+              },
+              {
+                "boundingBox": "759,491,30,7",
+                "text": "save:"
+              }
+            ]
+          },
+          {
+            "boundingBox": "667,512,151,13",
+            "words": [
+              {
+                "boundingBox": "667,514,5,5",
+                "text": "•"
+              },
+              {
+                "boundingBox": "684,512,28,10",
+                "text": "Your"
+              },
+              {
+                "boundingBox": "716,512,56,13",
+                "text": "browsing"
+              },
+              {
+                "boundingBox": "777,512,41,13",
+                "text": "history"
+              }
+            ]
+          },
+          {
+            "boundingBox": "684,532,132,10",
+            "words": [
+              {
+                "boundingBox": "684,532,49,10",
+                "text": "Cookies"
+              },
+              {
+                "boundingBox": "737,532,22,10",
+                "text": "and"
+              },
+              {
+                "boundingBox": "764,532,21,10",
+                "text": "site"
+              },
+              {
+                "boundingBox": "789,532,27,10",
+                "text": "data"
+              }
+            ]
+          },
+          {
+            "boundingBox": "667,552,195,10",
+            "words": [
+              {
+                "boundingBox": "667,554,5,5",
+                "text": "•"
+              },
+              {
+                "boundingBox": "685,552,71,10",
+                "text": "Information"
+              },
+              {
+                "boundingBox": "761,552,47,10",
+                "text": "entered"
+              },
+              {
+                "boundingBox": "813,552,10,10",
+                "text": "in"
+              },
+              {
+                "boundingBox": "827,552,35,10",
+                "text": "forms"
+              }
+            ]
+          },
+          {
+            "boundingBox": "720,612,200,13",
+            "words": [
+              {
+                "boundingBox": "720,612,72,13",
+                "text": "Third-party"
+              },
+              {
+                "boundingBox": "796,612,48,10",
+                "text": "cookies"
+              },
+              {
+                "boundingBox": "847,615,20,7",
+                "text": "are"
+              },
+              {
+                "boundingBox": "872,612,48,10",
+                "text": "blocked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "982,488,222,77",
+        "lines": [
+          {
+            "boundingBox": "983,488,221,13",
+            "words": [
+              {
+                "boundingBox": "983,488,28,10",
+                "text": "Your"
+              },
+              {
+                "boundingBox": "1015,488,43,13",
+                "text": "activity"
+              },
+              {
+                "boundingBox": "1062,488,36,13",
+                "text": "might"
+              },
+              {
+                "boundingBox": "1102,488,20,10",
+                "text": "still"
+              },
+              {
+                "boundingBox": "1127,488,15,10",
+                "text": "be"
+              },
+              {
+                "boundingBox": "1146,488,38,10",
+                "text": "visible"
+              },
+              {
+                "boundingBox": "1188,489,16,9",
+                "text": "to:"
+              }
+            ]
+          },
+          {
+            "boundingBox": "999,512,139,13",
+            "words": [
+              {
+                "boundingBox": "999,512,55,10",
+                "text": "Websites"
+              },
+              {
+                "boundingBox": "1058,512,25,10",
+                "text": "that"
+              },
+              {
+                "boundingBox": "1086,515,23,10",
+                "text": "you"
+              },
+              {
+                "boundingBox": "1113,512,25,10",
+                "text": "visit"
+              }
+            ]
+          },
+          {
+            "boundingBox": "982,532,167,13",
+            "words": [
+              {
+                "boundingBox": "982,534,5,5",
+                "text": "•"
+              },
+              {
+                "boundingBox": "999,532,28,10",
+                "text": "Your"
+              },
+              {
+                "boundingBox": "1031,532,58,13",
+                "text": "employer"
+              },
+              {
+                "boundingBox": "1093,535,13,7",
+                "text": "or"
+              },
+              {
+                "boundingBox": "1110,532,39,10",
+                "text": "school"
+              }
+            ]
+          },
+          {
+            "boundingBox": "982,552,199,13",
+            "words": [
+              {
+                "boundingBox": "982,554,5,5",
+                "text": "•"
+              },
+              {
+                "boundingBox": "999,552,28,10",
+                "text": "Your"
+              },
+              {
+                "boundingBox": "1031,552,48,10",
+                "text": "Internet"
+              },
+              {
+                "boundingBox": "1083,552,42,10",
+                "text": "service"
+              },
+              {
+                "boundingBox": "1129,552,52,13",
+                "text": "provider"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "688,640,544,50",
+        "lines": [
+          {
+            "boundingBox": "688,640,544,13",
+            "words": [
+              {
+                "boundingBox": "688,640,36,10",
+                "text": "When"
+              },
+              {
+                "boundingBox": "728,640,38,13",
+                "text": "you're"
+              },
+              {
+                "boundingBox": "771,640,10,10",
+                "text": "in"
+              },
+              {
+                "boundingBox": "786,640,58,13",
+                "text": "Incognito"
+              },
+              {
+                "boundingBox": "849,640,37,11",
+                "text": "mode,"
+              },
+              {
+                "boundingBox": "891,640,27,10",
+                "text": "sites"
+              },
+              {
+                "boundingBox": "922,640,30,10",
+                "text": "can't"
+              },
+              {
+                "boundingBox": "956,643,20,7",
+                "text": "use"
+              },
+              {
+                "boundingBox": "980,640,67,13",
+                "text": "third-party"
+              },
+              {
+                "boundingBox": "1051,640,49,10",
+                "text": "cookies."
+              },
+              {
+                "boundingBox": "1105,640,8,10",
+                "text": "If"
+              },
+              {
+                "boundingBox": "1116,643,6,7",
+                "text": "a"
+              },
+              {
+                "boundingBox": "1127,640,21,10",
+                "text": "site"
+              },
+              {
+                "boundingBox": "1152,640,25,10",
+                "text": "that"
+              },
+              {
+                "boundingBox": "1181,640,32,10",
+                "text": "relies"
+              },
+              {
+                "boundingBox": "1217,643,15,7",
+                "text": "on"
+              }
+            ]
+          },
+          {
+            "boundingBox": "688,660,535,13",
+            "words": [
+              {
+                "boundingBox": "688,660,33,10",
+                "text": "these"
+              },
+              {
+                "boundingBox": "725,660,47,10",
+                "text": "cookies"
+              },
+              {
+                "boundingBox": "776,660,25,10",
+                "text": "isn't"
+              },
+              {
+                "boundingBox": "804,660,53,13",
+                "text": "working,"
+              },
+              {
+                "boundingBox": "861,663,22,10",
+                "text": "you"
+              },
+              {
+                "boundingBox": "888,663,21,7",
+                "text": "can"
+              },
+              {
+                "boundingBox": "913,660,58,13",
+                "text": "tuqiving"
+              },
+              {
+                "boundingBox": "975,660,24,10",
+                "text": "that"
+              },
+              {
+                "boundingBox": "1004,660,21,10",
+                "text": "site"
+              },
+              {
+                "boundingBox": "1097,663,39,7",
+                "text": "access"
+              },
+              {
+                "boundingBox": "1140,661,12,9",
+                "text": "to"
+              },
+              {
+                "boundingBox": "1157,660,66,13",
+                "text": "third-party"
+              }
+            ]
+          },
+          {
+            "boundingBox": "688,680,49,10",
+            "words": [
+              {
+                "boundingBox": "688,680,49,10",
+                "text": "cookies."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "modelVersion": "2021-04-01"
+  },
+  "image_path": "screenshots\\images\\manual_captures\\manual_background_20250709_021919_4344.png"
+}

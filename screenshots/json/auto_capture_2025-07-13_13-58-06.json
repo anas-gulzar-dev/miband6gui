@@ -1,0 +1,804 @@
+{
+  "timestamp": "2025-07-13 13:58:06",
+  "window_title": "WhatsApp",
+  "raw_text": "WhatsApp\nChats\np Search or start a new chat\nYou (You)\nu Image\n2022-MC-A Discussion\nYesterday\n7/1112025\nSyeda Imaan: https://docs.google.com...\nzam naz\nu Image\nXtreme Knowledge Hub\nCÖöÖütär _\nAnss cr\nV/ vo tu dekh lyi\nUET Hostelite\n1:31 PM\n1:27 PM\n1:07 PM\n1214 PM\n—Rao Umair: Walikumslam Yr yha bag...\nChatGPT\n1017 AM\nHaan bhai Anas, yeh common issue hai...\nFYP-2025-GRACE\n9:54 AM\nSir Shujat: Important note: this payment...\nMamoo Ramzan\nImage\nMian: 13 Sticker\nLMS_AI (Artificial Intelligence)\nYou were added\nBabu\n541 AM\n1:10 AM\nYesterday\n7/10/2025\nWhatsApp for Windows\nSend and receive messages without keeping your phone online.\nUse WhatsApp on up to 4 linked devices and 1 phone at the same time.\na End-to-end encrypted\nV/ 13 Nettfiix v9.24.O (Premium).apk",
+  "full_ocr_result": {
+    "language": "en",
+    "textAngle": 0.0,
+    "orientation": "Up",
+    "regions": [
+      {
+        "boundingBox": "44,16,234,236",
+        "lines": [
+          {
+            "boundingBox": "44,16,56,12",
+            "words": [
+              {
+                "boundingBox": "44,16,56,12",
+                "text": "WhatsApp"
+              }
+            ]
+          },
+          {
+            "boundingBox": "72,66,49,15",
+            "words": [
+              {
+                "boundingBox": "72,66,49,15",
+                "text": "Chats"
+              }
+            ]
+          },
+          {
+            "boundingBox": "81,114,179,12",
+            "words": [
+              {
+                "boundingBox": "81,114,12,12",
+                "text": "p"
+              },
+              {
+                "boundingBox": "101,115,41,10",
+                "text": "Search"
+              },
+              {
+                "boundingBox": "146,118,13,7",
+                "text": "or"
+              },
+              {
+                "boundingBox": "163,116,27,9",
+                "text": "start"
+              },
+              {
+                "boundingBox": "194,118,7,7",
+                "text": "a"
+              },
+              {
+                "boundingBox": "206,118,25,7",
+                "text": "new"
+              },
+              {
+                "boundingBox": "235,115,25,10",
+                "text": "chat"
+              }
+            ]
+          },
+          {
+            "boundingBox": "135,170,59,12",
+            "words": [
+              {
+                "boundingBox": "135,170,23,10",
+                "text": "You"
+              },
+              {
+                "boundingBox": "163,170,31,12",
+                "text": "(You)"
+              }
+            ]
+          },
+          {
+            "boundingBox": "136,191,77,13",
+            "words": [
+              {
+                "boundingBox": "136,191,16,10",
+                "text": "u"
+              },
+              {
+                "boundingBox": "176,191,37,13",
+                "text": "Image"
+              }
+            ]
+          },
+          {
+            "boundingBox": "135,242,143,10",
+            "words": [
+              {
+                "boundingBox": "135,242,73,10",
+                "text": "2022-MC-A"
+              },
+              {
+                "boundingBox": "213,242,65,10",
+                "text": "Discussion"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "350,171,55,82",
+        "lines": [
+          {
+            "boundingBox": "354,171,51,12",
+            "words": [
+              {
+                "boundingBox": "354,171,51,12",
+                "text": "Yesterday"
+              }
+            ]
+          },
+          {
+            "boundingBox": "350,243,54,10",
+            "words": [
+              {
+                "boundingBox": "350,243,54,10",
+                "text": "7/1112025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "135,263,245,13",
+        "lines": [
+          {
+            "boundingBox": "135,263,245,13",
+            "words": [
+              {
+                "boundingBox": "135,263,36,13",
+                "text": "Syeda"
+              },
+              {
+                "boundingBox": "176,263,40,10",
+                "text": "Imaan:"
+              },
+              {
+                "boundingBox": "221,263,159,13",
+                "text": "https://docs.google.com..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "135,317,191,223",
+        "lines": [
+          {
+            "boundingBox": "135,317,52,7",
+            "words": [
+              {
+                "boundingBox": "135,317,25,7",
+                "text": "zam"
+              },
+              {
+                "boundingBox": "165,317,22,7",
+                "text": "naz"
+              }
+            ]
+          },
+          {
+            "boundingBox": "136,335,77,13",
+            "words": [
+              {
+                "boundingBox": "136,335,16,10",
+                "text": "u"
+              },
+              {
+                "boundingBox": "176,335,37,13",
+                "text": "Image"
+              }
+            ]
+          },
+          {
+            "boundingBox": "135,386,151,13",
+            "words": [
+              {
+                "boundingBox": "135,386,46,10",
+                "text": "Xtreme"
+              },
+              {
+                "boundingBox": "186,386,70,13",
+                "text": "Knowledge"
+              },
+              {
+                "boundingBox": "261,386,25,10",
+                "text": "Hub"
+              }
+            ]
+          },
+          {
+            "boundingBox": "186,405,140,15",
+            "words": [
+              {
+                "boundingBox": "186,405,64,15",
+                "text": "CÖöÖütär"
+              },
+              {
+                "boundingBox": "324,418,2,1",
+                "text": "_"
+              }
+            ]
+          },
+          {
+            "boundingBox": "135,458,46,10",
+            "words": [
+              {
+                "boundingBox": "135,458,29,10",
+                "text": "Anss"
+              },
+              {
+                "boundingBox": "169,461,12,7",
+                "text": "cr"
+              }
+            ]
+          },
+          {
+            "boundingBox": "136,479,102,13",
+            "words": [
+              {
+                "boundingBox": "136,479,16,10",
+                "text": "V/"
+              },
+              {
+                "boundingBox": "156,482,14,7",
+                "text": "vo"
+              },
+              {
+                "boundingBox": "175,480,12,9",
+                "text": "tu"
+              },
+              {
+                "boundingBox": "192,479,29,10",
+                "text": "dekh"
+              },
+              {
+                "boundingBox": "226,479,12,13",
+                "text": "lyi"
+              }
+            ]
+          },
+          {
+            "boundingBox": "152,530,85,10",
+            "words": [
+              {
+                "boundingBox": "152,530,25,10",
+                "text": "UET"
+              },
+              {
+                "boundingBox": "181,530,56,10",
+                "text": "Hostelite"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "356,315,48,225",
+        "lines": [
+          {
+            "boundingBox": "363,315,41,9",
+            "words": [
+              {
+                "boundingBox": "363,315,19,9",
+                "text": "1:31"
+              },
+              {
+                "boundingBox": "388,315,16,9",
+                "text": "PM"
+              }
+            ]
+          },
+          {
+            "boundingBox": "363,387,41,9",
+            "words": [
+              {
+                "boundingBox": "363,387,21,9",
+                "text": "1:27"
+              },
+              {
+                "boundingBox": "388,387,16,9",
+                "text": "PM"
+              }
+            ]
+          },
+          {
+            "boundingBox": "363,459,41,9",
+            "words": [
+              {
+                "boundingBox": "363,459,21,9",
+                "text": "1:07"
+              },
+              {
+                "boundingBox": "388,459,16,9",
+                "text": "PM"
+              }
+            ]
+          },
+          {
+            "boundingBox": "356,531,48,9",
+            "words": [
+              {
+                "boundingBox": "356,531,27,9",
+                "text": "1214"
+              },
+              {
+                "boundingBox": "388,531,16,9",
+                "text": "PM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "136,551,244,13",
+        "lines": [
+          {
+            "boundingBox": "136,551,244,13",
+            "words": [
+              {
+                "boundingBox": "136,551,32,10",
+                "text": "—Rao"
+              },
+              {
+                "boundingBox": "173,551,39,10",
+                "text": "Umair:"
+              },
+              {
+                "boundingBox": "216,551,81,10",
+                "text": "Walikumslam"
+              },
+              {
+                "boundingBox": "306,551,12,10",
+                "text": "Yr"
+              },
+              {
+                "boundingBox": "321,551,21,13",
+                "text": "yha"
+              },
+              {
+                "boundingBox": "348,551,32,13",
+                "text": "bag..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "135,602,55,10",
+        "lines": [
+          {
+            "boundingBox": "135,602,55,10",
+            "words": [
+              {
+                "boundingBox": "135,602,55,10",
+                "text": "ChatGPT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "355,603,49,9",
+        "lines": [
+          {
+            "boundingBox": "355,603,49,9",
+            "words": [
+              {
+                "boundingBox": "355,603,27,9",
+                "text": "1017"
+              },
+              {
+                "boundingBox": "386,603,18,9",
+                "text": "AM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "136,623,249,13",
+        "lines": [
+          {
+            "boundingBox": "136,623,249,13",
+            "words": [
+              {
+                "boundingBox": "136,623,30,10",
+                "text": "Haan"
+              },
+              {
+                "boundingBox": "172,623,25,10",
+                "text": "bhai"
+              },
+              {
+                "boundingBox": "201,623,33,11",
+                "text": "Anas,"
+              },
+              {
+                "boundingBox": "238,623,22,13",
+                "text": "yeh"
+              },
+              {
+                "boundingBox": "265,626,53,7",
+                "text": "common"
+              },
+              {
+                "boundingBox": "323,623,30,10",
+                "text": "issue"
+              },
+              {
+                "boundingBox": "358,623,27,10",
+                "text": "hai..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "136,674,108,10",
+        "lines": [
+          {
+            "boundingBox": "136,674,108,10",
+            "words": [
+              {
+                "boundingBox": "136,674,108,10",
+                "text": "FYP-2025-GRACE"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "361,675,43,9",
+        "lines": [
+          {
+            "boundingBox": "361,675,43,9",
+            "words": [
+              {
+                "boundingBox": "361,675,22,9",
+                "text": "9:54"
+              },
+              {
+                "boundingBox": "386,675,18,9",
+                "text": "AM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "135,695,255,13",
+        "lines": [
+          {
+            "boundingBox": "135,695,255,13",
+            "words": [
+              {
+                "boundingBox": "135,695,16,10",
+                "text": "Sir"
+              },
+              {
+                "boundingBox": "155,695,41,13",
+                "text": "Shujat:"
+              },
+              {
+                "boundingBox": "201,695,61,13",
+                "text": "Important"
+              },
+              {
+                "boundingBox": "267,696,29,9",
+                "text": "note:"
+              },
+              {
+                "boundingBox": "301,695,21,10",
+                "text": "this"
+              },
+              {
+                "boundingBox": "327,696,63,12",
+                "text": "payment..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "135,746,190,226",
+        "lines": [
+          {
+            "boundingBox": "136,746,102,10",
+            "words": [
+              {
+                "boundingBox": "136,746,48,10",
+                "text": "Mamoo"
+              },
+              {
+                "boundingBox": "189,746,49,10",
+                "text": "Ramzan"
+              }
+            ]
+          },
+          {
+            "boundingBox": "155,767,37,13",
+            "words": [
+              {
+                "boundingBox": "155,767,37,13",
+                "text": "Image"
+              }
+            ]
+          },
+          {
+            "boundingBox": "136,839,96,11",
+            "words": [
+              {
+                "boundingBox": "136,839,32,10",
+                "text": "Mian:"
+              },
+              {
+                "boundingBox": "174,839,11,11",
+                "text": "13"
+              },
+              {
+                "boundingBox": "191,839,41,10",
+                "text": "Sticker"
+              }
+            ]
+          },
+          {
+            "boundingBox": "136,890,189,13",
+            "words": [
+              {
+                "boundingBox": "136,890,45,12",
+                "text": "LMS_AI"
+              },
+              {
+                "boundingBox": "186,890,57,12",
+                "text": "(Artificial"
+              },
+              {
+                "boundingBox": "248,890,77,13",
+                "text": "Intelligence)"
+              }
+            ]
+          },
+          {
+            "boundingBox": "135,911,98,10",
+            "words": [
+              {
+                "boundingBox": "135,911,22,10",
+                "text": "You"
+              },
+              {
+                "boundingBox": "161,914,30,7",
+                "text": "were"
+              },
+              {
+                "boundingBox": "195,911,38,10",
+                "text": "added"
+              }
+            ]
+          },
+          {
+            "boundingBox": "136,962,31,10",
+            "words": [
+              {
+                "boundingBox": "136,962,31,10",
+                "text": "Babu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "350,747,55,226",
+        "lines": [
+          {
+            "boundingBox": "362,747,42,9",
+            "words": [
+              {
+                "boundingBox": "362,747,19,9",
+                "text": "541"
+              },
+              {
+                "boundingBox": "386,747,18,9",
+                "text": "AM"
+              }
+            ]
+          },
+          {
+            "boundingBox": "362,819,42,9",
+            "words": [
+              {
+                "boundingBox": "362,819,21,9",
+                "text": "1:10"
+              },
+              {
+                "boundingBox": "386,819,18,9",
+                "text": "AM"
+              }
+            ]
+          },
+          {
+            "boundingBox": "354,891,51,12",
+            "words": [
+              {
+                "boundingBox": "354,891,51,12",
+                "text": "Yesterday"
+              }
+            ]
+          },
+          {
+            "boundingBox": "350,963,54,10",
+            "words": [
+              {
+                "boundingBox": "350,963,54,10",
+                "text": "7/10/2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "955,553,440,430",
+        "lines": [
+          {
+            "boundingBox": "1076,553,198,18",
+            "words": [
+              {
+                "boundingBox": "1076,553,87,18",
+                "text": "WhatsApp"
+              },
+              {
+                "boundingBox": "1169,553,24,14",
+                "text": "for"
+              },
+              {
+                "boundingBox": "1198,553,76,14",
+                "text": "Windows"
+              }
+            ]
+          },
+          {
+            "boundingBox": "979,587,392,13",
+            "words": [
+              {
+                "boundingBox": "979,587,30,10",
+                "text": "Send"
+              },
+              {
+                "boundingBox": "1013,587,23,10",
+                "text": "and"
+              },
+              {
+                "boundingBox": "1041,587,42,10",
+                "text": "receive"
+              },
+              {
+                "boundingBox": "1088,590,59,10",
+                "text": "messages"
+              },
+              {
+                "boundingBox": "1151,587,47,10",
+                "text": "without"
+              },
+              {
+                "boundingBox": "1203,587,48,13",
+                "text": "keeping"
+              },
+              {
+                "boundingBox": "1255,590,28,10",
+                "text": "your"
+              },
+              {
+                "boundingBox": "1288,587,38,13",
+                "text": "phone"
+              },
+              {
+                "boundingBox": "1331,587,40,10",
+                "text": "online."
+              }
+            ]
+          },
+          {
+            "boundingBox": "955,607,440,13",
+            "words": [
+              {
+                "boundingBox": "955,607,22,10",
+                "text": "Use"
+              },
+              {
+                "boundingBox": "981,607,64,13",
+                "text": "WhatsApp"
+              },
+              {
+                "boundingBox": "1050,610,15,7",
+                "text": "on"
+              },
+              {
+                "boundingBox": "1070,610,15,10",
+                "text": "up"
+              },
+              {
+                "boundingBox": "1089,608,13,9",
+                "text": "to"
+              },
+              {
+                "boundingBox": "1106,607,7,10",
+                "text": "4"
+              },
+              {
+                "boundingBox": "1118,607,36,10",
+                "text": "linked"
+              },
+              {
+                "boundingBox": "1159,607,44,10",
+                "text": "devices"
+              },
+              {
+                "boundingBox": "1208,607,22,10",
+                "text": "and"
+              },
+              {
+                "boundingBox": "1236,607,4,10",
+                "text": "1"
+              },
+              {
+                "boundingBox": "1247,607,38,13",
+                "text": "phone"
+              },
+              {
+                "boundingBox": "1290,608,11,9",
+                "text": "at"
+              },
+              {
+                "boundingBox": "1305,607,20,10",
+                "text": "the"
+              },
+              {
+                "boundingBox": "1329,610,32,7",
+                "text": "same"
+              },
+              {
+                "boundingBox": "1365,607,30,10",
+                "text": "time."
+              }
+            ]
+          },
+          {
+            "boundingBox": "1098,969,154,14",
+            "words": [
+              {
+                "boundingBox": "1098,969,8,11",
+                "text": "a"
+              },
+              {
+                "boundingBox": "1117,970,69,10",
+                "text": "End-to-end"
+              },
+              {
+                "boundingBox": "1191,970,61,13",
+                "text": "encrypted"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "136,982,222,14",
+        "lines": [
+          {
+            "boundingBox": "136,982,222,14",
+            "words": [
+              {
+                "boundingBox": "136,983,16,10",
+                "text": "V/"
+              },
+              {
+                "boundingBox": "157,982,10,12",
+                "text": "13"
+              },
+              {
+                "boundingBox": "174,983,44,10",
+                "text": "Nettfiix"
+              },
+              {
+                "boundingBox": "222,983,42,10",
+                "text": "v9.24.O"
+              },
+              {
+                "boundingBox": "269,983,89,13",
+                "text": "(Premium).apk"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "modelVersion": "2021-04-01"
+  },
+  "image_path": "screenshots\\images\\auto_captures\\auto_background_20250713_135803_1048.png"
+}

@@ -1,0 +1,404 @@
+{
+  "timestamp": "2025-07-09 13:41:43",
+  "window_title": "Quran Tab - Google Chrome",
+  "raw_text": "Quran Tab\nJuly 9, 2025\nSearch Google or type a URL\nQuick Links\nAdhkar\nAll Bookmarks\nMuharram 141447 AH\nPM\nS. al.? SIC b j.'\nAnd when you [i.e., the commander of an army] are among them and lead them in prayer,[217] let a group of them stand [in prayer] with you and let them carry their arms.\nAnA thorn ruaf•l thorn\nCHOOSE YOUR LOCATION\n77 years and 3 months since the occupation of Palesüne",
+  "full_ocr_result": {
+    "language": "en",
+    "textAngle": 0.0,
+    "orientation": "Up",
+    "regions": [
+      {
+        "boundingBox": "33,24,101,146",
+        "lines": [
+          {
+            "boundingBox": "80,24,54,10",
+            "words": [
+              {
+                "boundingBox": "80,24,32,10",
+                "text": "Quran"
+              },
+              {
+                "boundingBox": "116,24,18,9",
+                "text": "Tab"
+              }
+            ]
+          },
+          {
+            "boundingBox": "33,151,97,19",
+            "words": [
+              {
+                "boundingBox": "33,151,33,19",
+                "text": "July"
+              },
+              {
+                "boundingBox": "70,151,15,17",
+                "text": "9,"
+              },
+              {
+                "boundingBox": "89,151,41,15",
+                "text": "2025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "162,66,180,101",
+        "lines": [
+          {
+            "boundingBox": "165,66,177,13",
+            "words": [
+              {
+                "boundingBox": "165,66,41,10",
+                "text": "Search"
+              },
+              {
+                "boundingBox": "210,66,45,13",
+                "text": "Google"
+              },
+              {
+                "boundingBox": "259,69,13,7",
+                "text": "or"
+              },
+              {
+                "boundingBox": "276,67,27,12",
+                "text": "type"
+              },
+              {
+                "boundingBox": "307,69,6,7",
+                "text": "a"
+              },
+              {
+                "boundingBox": "318,66,24,10",
+                "text": "URL"
+              }
+            ]
+          },
+          {
+            "boundingBox": "162,150,103,17",
+            "words": [
+              {
+                "boundingBox": "162,150,52,17",
+                "text": "Quick"
+              },
+              {
+                "boundingBox": "220,150,45,15",
+                "text": "Links"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "1579,150,67,15",
+        "lines": [
+          {
+            "boundingBox": "1579,150,67,15",
+            "words": [
+              {
+                "boundingBox": "1579,150,67,15",
+                "text": "Adhkar"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "1710,103,203,65",
+        "lines": [
+          {
+            "boundingBox": "1838,103,75,9",
+            "words": [
+              {
+                "boundingBox": "1838,103,13,9",
+                "text": "All"
+              },
+              {
+                "boundingBox": "1856,103,57,9",
+                "text": "Bookmarks"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1710,151,189,17",
+            "words": [
+              {
+                "boundingBox": "1710,151,90,15",
+                "text": "Muharram"
+              },
+              {
+                "boundingBox": "1804,152,67,16",
+                "text": "141447"
+              },
+              {
+                "boundingBox": "1874,152,25,14",
+                "text": "AH"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "208,261,1507,761",
+        "lines": [
+          {
+            "boundingBox": "1004,261,43,22",
+            "words": [
+              {
+                "boundingBox": "1004,261,43,22",
+                "text": "PM"
+              }
+            ]
+          },
+          {
+            "boundingBox": "430,515,920,48",
+            "words": [
+              {
+                "boundingBox": "430,521,32,32",
+                "text": "S."
+              },
+              {
+                "boundingBox": "786,525,36,27",
+                "text": "al.?"
+              },
+              {
+                "boundingBox": "833,515,44,48",
+                "text": "SIC"
+              },
+              {
+                "boundingBox": "1293,525,15,28",
+                "text": "b"
+              },
+              {
+                "boundingBox": "1308,523,42,32",
+                "text": "j.'"
+              }
+            ]
+          },
+          {
+            "boundingBox": "208,652,1507,20",
+            "words": [
+              {
+                "boundingBox": "208,652,36,15",
+                "text": "And"
+              },
+              {
+                "boundingBox": "250,652,47,15",
+                "text": "when"
+              },
+              {
+                "boundingBox": "303,657,32,15",
+                "text": "you"
+              },
+              {
+                "boundingBox": "343,652,32,18",
+                "text": "[i.e.,"
+              },
+              {
+                "boundingBox": "381,652,29,15",
+                "text": "the"
+              },
+              {
+                "boundingBox": "415,652,107,15",
+                "text": "commander"
+              },
+              {
+                "boundingBox": "527,652,19,15",
+                "text": "of"
+              },
+              {
+                "boundingBox": "550,657,21,10",
+                "text": "an"
+              },
+              {
+                "boundingBox": "577,653,49,19",
+                "text": "army]"
+              },
+              {
+                "boundingBox": "633,657,27,10",
+                "text": "are"
+              },
+              {
+                "boundingBox": "666,657,61,15",
+                "text": "among"
+              },
+              {
+                "boundingBox": "733,652,45,15",
+                "text": "them"
+              },
+              {
+                "boundingBox": "785,652,32,15",
+                "text": "and"
+              },
+              {
+                "boundingBox": "824,652,36,15",
+                "text": "lead"
+              },
+              {
+                "boundingBox": "866,652,45,15",
+                "text": "them"
+              },
+              {
+                "boundingBox": "918,652,15,15",
+                "text": "in"
+              },
+              {
+                "boundingBox": "940,653,103,19",
+                "text": "prayer,[217]"
+              },
+              {
+                "boundingBox": "1050,652,22,15",
+                "text": "let"
+              },
+              {
+                "boundingBox": "1077,657,9,10",
+                "text": "a"
+              },
+              {
+                "boundingBox": "1093,657,53,15",
+                "text": "group"
+              },
+              {
+                "boundingBox": "1152,652,19,15",
+                "text": "of"
+              },
+              {
+                "boundingBox": "1175,652,45,15",
+                "text": "them"
+              },
+              {
+                "boundingBox": "1227,652,47,15",
+                "text": "stand"
+              },
+              {
+                "boundingBox": "1282,652,20,18",
+                "text": "[in"
+              },
+              {
+                "boundingBox": "1309,653,60,19",
+                "text": "prayer]"
+              },
+              {
+                "boundingBox": "1375,652,37,15",
+                "text": "with"
+              },
+              {
+                "boundingBox": "1418,657,32,15",
+                "text": "you"
+              },
+              {
+                "boundingBox": "1457,652,32,15",
+                "text": "and"
+              },
+              {
+                "boundingBox": "1496,652,22,15",
+                "text": "let"
+              },
+              {
+                "boundingBox": "1523,652,45,15",
+                "text": "them"
+              },
+              {
+                "boundingBox": "1574,657,44,15",
+                "text": "carry"
+              },
+              {
+                "boundingBox": "1622,652,41,15",
+                "text": "their"
+              },
+              {
+                "boundingBox": "1668,657,47,10",
+                "text": "arms."
+              }
+            ]
+          },
+          {
+            "boundingBox": "209,687,1317,11",
+            "words": [
+              {
+                "boundingBox": "209,687,34,11",
+                "text": "AnA"
+              },
+              {
+                "boundingBox": "522,687,45,11",
+                "text": "thorn"
+              },
+              {
+                "boundingBox": "1305,688,37,10",
+                "text": "ruaf•l"
+              },
+              {
+                "boundingBox": "1481,687,45,11",
+                "text": "thorn"
+              }
+            ]
+          },
+          {
+            "boundingBox": "892,886,190,11",
+            "words": [
+              {
+                "boundingBox": "892,886,62,11",
+                "text": "CHOOSE"
+              },
+              {
+                "boundingBox": "959,886,43,11",
+                "text": "YOUR"
+              },
+              {
+                "boundingBox": "1006,886,76,11",
+                "text": "LOCATION"
+              }
+            ]
+          },
+          {
+            "boundingBox": "730,1006,438,16",
+            "words": [
+              {
+                "boundingBox": "730,1007,19,11",
+                "text": "77"
+              },
+              {
+                "boundingBox": "757,1010,40,12",
+                "text": "years"
+              },
+              {
+                "boundingBox": "801,1006,28,12",
+                "text": "and"
+              },
+              {
+                "boundingBox": "838,1007,9,11",
+                "text": "3"
+              },
+              {
+                "boundingBox": "856,1006,57,12",
+                "text": "months"
+              },
+              {
+                "boundingBox": "917,1006,38,12",
+                "text": "since"
+              },
+              {
+                "boundingBox": "959,1006,25,12",
+                "text": "the"
+              },
+              {
+                "boundingBox": "988,1006,83,16",
+                "text": "occupation"
+              },
+              {
+                "boundingBox": "1076,1006,17,12",
+                "text": "of"
+              },
+              {
+                "boundingBox": "1101,1006,67,12",
+                "text": "Palesüne"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "modelVersion": "2021-04-01"
+  },
+  "image_path": "screenshots\\images\\manual_captures\\manual_background_20250709_134139_3924.png"
+}

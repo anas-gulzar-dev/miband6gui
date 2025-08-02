@@ -1,0 +1,1435 @@
+{
+  "timestamp": "2025-07-13 05:55:03",
+  "window_title": "WhatsApp",
+  "raw_text": "WhatsApp\nChats\np Search or start a new chat\nYou (You)\nu Image\n2022-MC-A Discussion\nYesterday\n7/1112025\nSyeda Imaan: https://docs.google.com...\nzam naz\nV/ hn ye to hy\nUET Hostelite\nThis message was deleted.\nChatGPT\n5:30 AM\n5:22 AM\n5:17 AM\nzam naz\nType a message\n- Background contrast low ho\nThresholding sahi nahi lag rahi\nSolution Steps:\n1. Grayscale Conversion (Accurate)\nUse proper grayscale first:\npython\ngray = cv2. cvtC010r(image, cv2. COLOR BGR2GRAY)\n2. Apply Adaptive Thresholding\nBetter than normal thresholding:\nRead more\nSleepAgent/assets/grafana.png at master • Anduin2017/SleepAgent\nContribute to Anduin2017/SIeepAgent development by creating an account on\nGitHub.\ngithub.com\nham 2017 ka project banai rahe hai i think approach different hai magar working same\nhai here is the proof \"https://github.com/Anduin2017/SleepAgent/blob/master/\n5:20 AM U\nHaan bhai Anas, yeh common issue hai...\nFYP-2025-GRACE\n4:54 AM\nSir Shujat: Important note: this payment...\nAnss cr\n4:52 AM\nU wifi k through wirelessly screen shar...\nassets/grafana.png\nhamara cli hai aur aun ka basic simple web wala hai\n5:24 AM\nmetrics km hein\nphar bhai 8 years ke baad bi kitni ku aye hai units and metrics\n5:28 AM\n5:22 AM\nzam naz\nham 2017 ka project banai rahe hai i think approach different hai magar working\nsame hai here is the proof \"http*//github.com/Anduin2017/SIeepAgent/bIo...\nmetrics km hein\nbtw kuch bi hai band ui and ux design layout kaamal ki banai hai 8 years ke baad bi\nbeautiful and stunning lag raha hai\n5:29 AM\nhn ye to hy\n5:25 AM U\n5:30 AM U\nO",
+  "full_ocr_result": {
+    "language": "en",
+    "textAngle": 0.0,
+    "orientation": "Up",
+    "regions": [
+      {
+        "boundingBox": "44,16,234,237",
+        "lines": [
+          {
+            "boundingBox": "44,16,56,12",
+            "words": [
+              {
+                "boundingBox": "44,16,56,12",
+                "text": "WhatsApp"
+              }
+            ]
+          },
+          {
+            "boundingBox": "72,66,49,15",
+            "words": [
+              {
+                "boundingBox": "72,66,49,15",
+                "text": "Chats"
+              }
+            ]
+          },
+          {
+            "boundingBox": "81,114,179,12",
+            "words": [
+              {
+                "boundingBox": "81,114,12,12",
+                "text": "p"
+              },
+              {
+                "boundingBox": "101,115,41,10",
+                "text": "Search"
+              },
+              {
+                "boundingBox": "146,118,13,7",
+                "text": "or"
+              },
+              {
+                "boundingBox": "163,116,27,9",
+                "text": "start"
+              },
+              {
+                "boundingBox": "194,118,7,7",
+                "text": "a"
+              },
+              {
+                "boundingBox": "206,118,25,7",
+                "text": "new"
+              },
+              {
+                "boundingBox": "235,115,25,10",
+                "text": "chat"
+              }
+            ]
+          },
+          {
+            "boundingBox": "135,171,59,12",
+            "words": [
+              {
+                "boundingBox": "135,171,23,10",
+                "text": "You"
+              },
+              {
+                "boundingBox": "163,171,31,12",
+                "text": "(You)"
+              }
+            ]
+          },
+          {
+            "boundingBox": "136,192,77,13",
+            "words": [
+              {
+                "boundingBox": "136,192,16,10",
+                "text": "u"
+              },
+              {
+                "boundingBox": "176,192,37,13",
+                "text": "Image"
+              }
+            ]
+          },
+          {
+            "boundingBox": "135,243,143,10",
+            "words": [
+              {
+                "boundingBox": "135,243,73,10",
+                "text": "2022-MC-A"
+              },
+              {
+                "boundingBox": "213,243,65,10",
+                "text": "Discussion"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "350,172,55,82",
+        "lines": [
+          {
+            "boundingBox": "354,172,51,12",
+            "words": [
+              {
+                "boundingBox": "354,172,51,12",
+                "text": "Yesterday"
+              }
+            ]
+          },
+          {
+            "boundingBox": "350,244,54,10",
+            "words": [
+              {
+                "boundingBox": "350,244,54,10",
+                "text": "7/1112025"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "135,264,245,13",
+        "lines": [
+          {
+            "boundingBox": "135,264,245,13",
+            "words": [
+              {
+                "boundingBox": "135,264,36,13",
+                "text": "Syeda"
+              },
+              {
+                "boundingBox": "176,264,40,10",
+                "text": "Imaan:"
+              },
+              {
+                "boundingBox": "221,264,159,13",
+                "text": "https://docs.google.com..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "135,318,212,151",
+        "lines": [
+          {
+            "boundingBox": "135,318,52,7",
+            "words": [
+              {
+                "boundingBox": "135,318,25,7",
+                "text": "zam"
+              },
+              {
+                "boundingBox": "165,318,22,7",
+                "text": "naz"
+              }
+            ]
+          },
+          {
+            "boundingBox": "136,336,89,13",
+            "words": [
+              {
+                "boundingBox": "136,336,16,10",
+                "text": "V/"
+              },
+              {
+                "boundingBox": "157,336,14,10",
+                "text": "hn"
+              },
+              {
+                "boundingBox": "175,339,15,10",
+                "text": "ye"
+              },
+              {
+                "boundingBox": "193,337,13,9",
+                "text": "to"
+              },
+              {
+                "boundingBox": "211,336,14,13",
+                "text": "hy"
+              }
+            ]
+          },
+          {
+            "boundingBox": "152,387,85,10",
+            "words": [
+              {
+                "boundingBox": "152,387,25,10",
+                "text": "UET"
+              },
+              {
+                "boundingBox": "181,387,56,10",
+                "text": "Hostelite"
+              }
+            ]
+          },
+          {
+            "boundingBox": "185,408,162,13",
+            "words": [
+              {
+                "boundingBox": "185,408,24,10",
+                "text": "This"
+              },
+              {
+                "boundingBox": "214,411,53,10",
+                "text": "message"
+              },
+              {
+                "boundingBox": "271,411,23,7",
+                "text": "was"
+              },
+              {
+                "boundingBox": "299,408,48,10",
+                "text": "deleted."
+              }
+            ]
+          },
+          {
+            "boundingBox": "135,459,55,10",
+            "words": [
+              {
+                "boundingBox": "135,459,55,10",
+                "text": "ChatGPT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "362,316,42,153",
+        "lines": [
+          {
+            "boundingBox": "362,316,42,9",
+            "words": [
+              {
+                "boundingBox": "362,316,21,9",
+                "text": "5:30"
+              },
+              {
+                "boundingBox": "386,316,18,9",
+                "text": "AM"
+              }
+            ]
+          },
+          {
+            "boundingBox": "362,388,42,9",
+            "words": [
+              {
+                "boundingBox": "362,388,21,9",
+                "text": "5:22"
+              },
+              {
+                "boundingBox": "386,388,18,9",
+                "text": "AM"
+              }
+            ]
+          },
+          {
+            "boundingBox": "362,460,42,9",
+            "words": [
+              {
+                "boundingBox": "362,460,21,9",
+                "text": "5:17"
+              },
+              {
+                "boundingBox": "386,460,18,9",
+                "text": "AM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "502,70,133,944",
+        "lines": [
+          {
+            "boundingBox": "502,70,52,7",
+            "words": [
+              {
+                "boundingBox": "502,70,25,7",
+                "text": "zam"
+              },
+              {
+                "boundingBox": "532,70,22,7",
+                "text": "naz"
+              }
+            ]
+          },
+          {
+            "boundingBox": "538,1001,97,13",
+            "words": [
+              {
+                "boundingBox": "538,1001,29,13",
+                "text": "Type"
+              },
+              {
+                "boundingBox": "571,1004,6,7",
+                "text": "a"
+              },
+              {
+                "boundingBox": "582,1004,53,10",
+                "text": "message"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "674,108,805,485",
+        "lines": [
+          {
+            "boundingBox": "1128,108,181,13",
+            "words": [
+              {
+                "boundingBox": "1128,114,4,1",
+                "text": "-"
+              },
+              {
+                "boundingBox": "1137,108,73,13",
+                "text": "Background"
+              },
+              {
+                "boundingBox": "1215,109,49,9",
+                "text": "contrast"
+              },
+              {
+                "boundingBox": "1269,108,21,10",
+                "text": "low"
+              },
+              {
+                "boundingBox": "1294,108,15,10",
+                "text": "ho"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1136,127,189,13",
+            "words": [
+              {
+                "boundingBox": "1136,127,80,13",
+                "text": "Thresholding"
+              },
+              {
+                "boundingBox": "1221,127,24,10",
+                "text": "sahi"
+              },
+              {
+                "boundingBox": "1250,127,25,10",
+                "text": "nahi"
+              },
+              {
+                "boundingBox": "1280,127,17,13",
+                "text": "lag"
+              },
+              {
+                "boundingBox": "1303,127,22,10",
+                "text": "rahi"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1148,203,93,13",
+            "words": [
+              {
+                "boundingBox": "1148,203,52,10",
+                "text": "Solution"
+              },
+              {
+                "boundingBox": "1205,203,36,13",
+                "text": "Steps:"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1148,241,217,13",
+            "words": [
+              {
+                "boundingBox": "1148,241,9,10",
+                "text": "1."
+              },
+              {
+                "boundingBox": "1162,241,60,13",
+                "text": "Grayscale"
+              },
+              {
+                "boundingBox": "1226,241,70,10",
+                "text": "Conversion"
+              },
+              {
+                "boundingBox": "1302,241,63,12",
+                "text": "(Accurate)"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1128,260,158,13",
+            "words": [
+              {
+                "boundingBox": "1128,260,22,10",
+                "text": "Use"
+              },
+              {
+                "boundingBox": "1155,263,41,10",
+                "text": "proper"
+              },
+              {
+                "boundingBox": "1200,260,56,13",
+                "text": "grayscale"
+              },
+              {
+                "boundingBox": "1260,260,26,10",
+                "text": "first:"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1128,298,44,13",
+            "words": [
+              {
+                "boundingBox": "1128,298,44,13",
+                "text": "python"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1127,317,352,13",
+            "words": [
+              {
+                "boundingBox": "1127,320,31,10",
+                "text": "gray"
+              },
+              {
+                "boundingBox": "1166,322,7,3",
+                "text": "="
+              },
+              {
+                "boundingBox": "1182,318,27,9",
+                "text": "cv2."
+              },
+              {
+                "boundingBox": "1212,317,113,13",
+                "text": "cvtC010r(image,"
+              },
+              {
+                "boundingBox": "1336,318,27,9",
+                "text": "cv2."
+              },
+              {
+                "boundingBox": "1366,318,38,9",
+                "text": "COLOR"
+              },
+              {
+                "boundingBox": "1412,317,67,13",
+                "text": "BGR2GRAY)"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1148,374,198,13",
+            "words": [
+              {
+                "boundingBox": "1148,374,9,10",
+                "text": "2."
+              },
+              {
+                "boundingBox": "1162,374,37,13",
+                "text": "Apply"
+              },
+              {
+                "boundingBox": "1202,374,57,13",
+                "text": "Adaptive"
+              },
+              {
+                "boundingBox": "1263,374,83,13",
+                "text": "Thresholding"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1128,393,199,13",
+            "words": [
+              {
+                "boundingBox": "1128,393,36,10",
+                "text": "Better"
+              },
+              {
+                "boundingBox": "1168,393,27,10",
+                "text": "than"
+              },
+              {
+                "boundingBox": "1200,393,42,10",
+                "text": "normal"
+              },
+              {
+                "boundingBox": "1247,393,80,13",
+                "text": "thresholding:"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1128,431,66,10",
+            "words": [
+              {
+                "boundingBox": "1128,431,29,10",
+                "text": "Read"
+              },
+              {
+                "boundingBox": "1162,434,32,7",
+                "text": "more"
+              }
+            ]
+          },
+          {
+            "boundingBox": "763,483,417,13",
+            "words": [
+              {
+                "boundingBox": "763,483,192,13",
+                "text": "SleepAgent/assets/grafana.png"
+              },
+              {
+                "boundingBox": "960,484,12,9",
+                "text": "at"
+              },
+              {
+                "boundingBox": "976,484,42,9",
+                "text": "master"
+              },
+              {
+                "boundingBox": "1022,488,2,2",
+                "text": "•"
+              },
+              {
+                "boundingBox": "1028,483,152,13",
+                "text": "Anduin2017/SleepAgent"
+              }
+            ]
+          },
+          {
+            "boundingBox": "763,502,417,12",
+            "words": [
+              {
+                "boundingBox": "763,502,56,9",
+                "text": "Contribute"
+              },
+              {
+                "boundingBox": "823,503,11,8",
+                "text": "to"
+              },
+              {
+                "boundingBox": "837,502,130,12",
+                "text": "Anduin2017/SIeepAgent"
+              },
+              {
+                "boundingBox": "970,502,70,12",
+                "text": "development"
+              },
+              {
+                "boundingBox": "1044,502,12,12",
+                "text": "by"
+              },
+              {
+                "boundingBox": "1059,502,43,12",
+                "text": "creating"
+              },
+              {
+                "boundingBox": "1106,505,12,6",
+                "text": "an"
+              },
+              {
+                "boundingBox": "1122,503,42,8",
+                "text": "account"
+              },
+              {
+                "boundingBox": "1167,505,13,6",
+                "text": "on"
+              }
+            ]
+          },
+          {
+            "boundingBox": "763,516,40,9",
+            "words": [
+              {
+                "boundingBox": "763,516,40,9",
+                "text": "GitHub."
+              }
+            ]
+          },
+          {
+            "boundingBox": "763,534,60,12",
+            "words": [
+              {
+                "boundingBox": "763,534,60,12",
+                "text": "github.com"
+              }
+            ]
+          },
+          {
+            "boundingBox": "674,561,531,13",
+            "words": [
+              {
+                "boundingBox": "674,561,25,10",
+                "text": "ham"
+              },
+              {
+                "boundingBox": "704,561,30,10",
+                "text": "2017"
+              },
+              {
+                "boundingBox": "739,561,13,10",
+                "text": "ka"
+              },
+              {
+                "boundingBox": "757,561,42,13",
+                "text": "project"
+              },
+              {
+                "boundingBox": "803,561,33,10",
+                "text": "banai"
+              },
+              {
+                "boundingBox": "841,561,26,10",
+                "text": "rahe"
+              },
+              {
+                "boundingBox": "872,561,17,10",
+                "text": "hai"
+              },
+              {
+                "boundingBox": "894,561,2,10",
+                "text": "i"
+              },
+              {
+                "boundingBox": "901,561,31,10",
+                "text": "think"
+              },
+              {
+                "boundingBox": "936,561,57,13",
+                "text": "approach"
+              },
+              {
+                "boundingBox": "997,561,52,10",
+                "text": "different"
+              },
+              {
+                "boundingBox": "1054,561,17,10",
+                "text": "hai"
+              },
+              {
+                "boundingBox": "1076,564,40,10",
+                "text": "magar"
+              },
+              {
+                "boundingBox": "1119,561,49,13",
+                "text": "working"
+              },
+              {
+                "boundingBox": "1173,564,32,7",
+                "text": "same"
+              }
+            ]
+          },
+          {
+            "boundingBox": "674,578,519,15",
+            "words": [
+              {
+                "boundingBox": "674,580,17,10",
+                "text": "hai"
+              },
+              {
+                "boundingBox": "696,580,26,10",
+                "text": "here"
+              },
+              {
+                "boundingBox": "727,580,8,10",
+                "text": "is"
+              },
+              {
+                "boundingBox": "739,580,20,10",
+                "text": "the"
+              },
+              {
+                "boundingBox": "764,580,33,13",
+                "text": "proof"
+              },
+              {
+                "boundingBox": "801,578,392,15",
+                "text": "\"https://github.com/Anduin2017/SleepAgent/blob/master/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "1629,437,54,7",
+        "lines": [
+          {
+            "boundingBox": "1629,437,54,7",
+            "words": [
+              {
+                "boundingBox": "1629,437,18,7",
+                "text": "5:20"
+              },
+              {
+                "boundingBox": "1650,437,15,7",
+                "text": "AM"
+              },
+              {
+                "boundingBox": "1672,437,11,7",
+                "text": "U"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "136,480,249,13",
+        "lines": [
+          {
+            "boundingBox": "136,480,249,13",
+            "words": [
+              {
+                "boundingBox": "136,480,30,10",
+                "text": "Haan"
+              },
+              {
+                "boundingBox": "172,480,25,10",
+                "text": "bhai"
+              },
+              {
+                "boundingBox": "201,480,33,11",
+                "text": "Anas,"
+              },
+              {
+                "boundingBox": "238,480,22,13",
+                "text": "yeh"
+              },
+              {
+                "boundingBox": "265,483,53,7",
+                "text": "common"
+              },
+              {
+                "boundingBox": "323,480,30,10",
+                "text": "issue"
+              },
+              {
+                "boundingBox": "358,480,27,10",
+                "text": "hai..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "136,531,108,10",
+        "lines": [
+          {
+            "boundingBox": "136,531,108,10",
+            "words": [
+              {
+                "boundingBox": "136,531,108,10",
+                "text": "FYP-2025-GRACE"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "361,532,43,9",
+        "lines": [
+          {
+            "boundingBox": "361,532,43,9",
+            "words": [
+              {
+                "boundingBox": "361,532,22,9",
+                "text": "4:54"
+              },
+              {
+                "boundingBox": "386,532,18,9",
+                "text": "AM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "135,552,255,13",
+        "lines": [
+          {
+            "boundingBox": "135,552,255,13",
+            "words": [
+              {
+                "boundingBox": "135,552,16,10",
+                "text": "Sir"
+              },
+              {
+                "boundingBox": "155,552,41,13",
+                "text": "Shujat:"
+              },
+              {
+                "boundingBox": "201,552,61,13",
+                "text": "Important"
+              },
+              {
+                "boundingBox": "267,553,29,9",
+                "text": "note:"
+              },
+              {
+                "boundingBox": "301,552,21,10",
+                "text": "this"
+              },
+              {
+                "boundingBox": "327,553,63,12",
+                "text": "payment..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "135,603,46,10",
+        "lines": [
+          {
+            "boundingBox": "135,603,46,10",
+            "words": [
+              {
+                "boundingBox": "135,603,29,10",
+                "text": "Anss"
+              },
+              {
+                "boundingBox": "169,606,12,7",
+                "text": "cr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "361,604,43,9",
+        "lines": [
+          {
+            "boundingBox": "361,604,43,9",
+            "words": [
+              {
+                "boundingBox": "361,604,22,9",
+                "text": "4:52"
+              },
+              {
+                "boundingBox": "386,604,18,9",
+                "text": "AM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "136,624,250,13",
+        "lines": [
+          {
+            "boundingBox": "136,624,250,13",
+            "words": [
+              {
+                "boundingBox": "136,624,16,10",
+                "text": "U"
+              },
+              {
+                "boundingBox": "156,624,21,10",
+                "text": "wifi"
+              },
+              {
+                "boundingBox": "182,624,6,10",
+                "text": "k"
+              },
+              {
+                "boundingBox": "192,624,49,13",
+                "text": "through"
+              },
+              {
+                "boundingBox": "245,624,59,13",
+                "text": "wirelessly"
+              },
+              {
+                "boundingBox": "308,627,39,7",
+                "text": "screen"
+              },
+              {
+                "boundingBox": "351,624,35,10",
+                "text": "shar..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "673,599,435,254",
+        "lines": [
+          {
+            "boundingBox": "673,599,116,13",
+            "words": [
+              {
+                "boundingBox": "673,599,116,13",
+                "text": "assets/grafana.png"
+              }
+            ]
+          },
+          {
+            "boundingBox": "674,632,315,13",
+            "words": [
+              {
+                "boundingBox": "674,632,45,10",
+                "text": "hamara"
+              },
+              {
+                "boundingBox": "723,632,13,10",
+                "text": "cli"
+              },
+              {
+                "boundingBox": "741,632,17,10",
+                "text": "hai"
+              },
+              {
+                "boundingBox": "763,635,20,7",
+                "text": "aur"
+              },
+              {
+                "boundingBox": "786,635,23,7",
+                "text": "aun"
+              },
+              {
+                "boundingBox": "814,632,13,10",
+                "text": "ka"
+              },
+              {
+                "boundingBox": "832,632,30,10",
+                "text": "basic"
+              },
+              {
+                "boundingBox": "866,632,40,13",
+                "text": "simple"
+              },
+              {
+                "boundingBox": "910,632,25,10",
+                "text": "web"
+              },
+              {
+                "boundingBox": "939,632,28,10",
+                "text": "wala"
+              },
+              {
+                "boundingBox": "972,632,17,10",
+                "text": "hai"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1009,638,36,7",
+            "words": [
+              {
+                "boundingBox": "1009,638,18,7",
+                "text": "5:24"
+              },
+              {
+                "boundingBox": "1030,638,15,7",
+                "text": "AM"
+              }
+            ]
+          },
+          {
+            "boundingBox": "684,809,83,9",
+            "words": [
+              {
+                "boundingBox": "684,809,37,9",
+                "text": "metrics"
+              },
+              {
+                "boundingBox": "725,809,15,9",
+                "text": "km"
+              },
+              {
+                "boundingBox": "745,809,22,9",
+                "text": "hein"
+              }
+            ]
+          },
+          {
+            "boundingBox": "674,840,378,13",
+            "words": [
+              {
+                "boundingBox": "674,840,27,13",
+                "text": "phar"
+              },
+              {
+                "boundingBox": "706,840,25,10",
+                "text": "bhai"
+              },
+              {
+                "boundingBox": "736,840,7,10",
+                "text": "8"
+              },
+              {
+                "boundingBox": "747,843,32,10",
+                "text": "years"
+              },
+              {
+                "boundingBox": "783,840,14,10",
+                "text": "ke"
+              },
+              {
+                "boundingBox": "801,840,29,10",
+                "text": "baad"
+              },
+              {
+                "boundingBox": "836,840,10,10",
+                "text": "bi"
+              },
+              {
+                "boundingBox": "851,840,25,10",
+                "text": "kitni"
+              },
+              {
+                "boundingBox": "881,840,14,10",
+                "text": "ku"
+              },
+              {
+                "boundingBox": "900,843,20,10",
+                "text": "aye"
+              },
+              {
+                "boundingBox": "925,840,17,10",
+                "text": "hai"
+              },
+              {
+                "boundingBox": "947,840,29,10",
+                "text": "units"
+              },
+              {
+                "boundingBox": "981,840,22,10",
+                "text": "and"
+              },
+              {
+                "boundingBox": "1008,840,44,10",
+                "text": "metrics"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1072,846,36,7",
+            "words": [
+              {
+                "boundingBox": "1072,846,18,7",
+                "text": "5:28"
+              },
+              {
+                "boundingBox": "1093,846,15,7",
+                "text": "AM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "1181,605,488,122",
+        "lines": [
+          {
+            "boundingBox": "1181,605,36,7",
+            "words": [
+              {
+                "boundingBox": "1181,605,18,7",
+                "text": "5:22"
+              },
+              {
+                "boundingBox": "1202,605,15,7",
+                "text": "AM"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1237,687,41,6",
+            "words": [
+              {
+                "boundingBox": "1237,687,20,6",
+                "text": "zam"
+              },
+              {
+                "boundingBox": "1261,687,17,6",
+                "text": "naz"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1238,699,423,12",
+            "words": [
+              {
+                "boundingBox": "1238,699,22,9",
+                "text": "ham"
+              },
+              {
+                "boundingBox": "1264,699,25,9",
+                "text": "2017"
+              },
+              {
+                "boundingBox": "1293,699,11,9",
+                "text": "ka"
+              },
+              {
+                "boundingBox": "1309,699,36,12",
+                "text": "project"
+              },
+              {
+                "boundingBox": "1349,699,28,9",
+                "text": "banai"
+              },
+              {
+                "boundingBox": "1381,699,23,9",
+                "text": "rahe"
+              },
+              {
+                "boundingBox": "1408,699,14,9",
+                "text": "hai"
+              },
+              {
+                "boundingBox": "1426,699,3,9",
+                "text": "i"
+              },
+              {
+                "boundingBox": "1432,699,27,9",
+                "text": "think"
+              },
+              {
+                "boundingBox": "1462,699,49,12",
+                "text": "approach"
+              },
+              {
+                "boundingBox": "1515,699,45,9",
+                "text": "different"
+              },
+              {
+                "boundingBox": "1564,699,15,9",
+                "text": "hai"
+              },
+              {
+                "boundingBox": "1583,702,33,9",
+                "text": "magar"
+              },
+              {
+                "boundingBox": "1619,699,42,12",
+                "text": "working"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1237,713,432,14",
+            "words": [
+              {
+                "boundingBox": "1237,718,28,6",
+                "text": "same"
+              },
+              {
+                "boundingBox": "1269,715,15,9",
+                "text": "hai"
+              },
+              {
+                "boundingBox": "1288,715,23,9",
+                "text": "here"
+              },
+              {
+                "boundingBox": "1314,715,8,9",
+                "text": "is"
+              },
+              {
+                "boundingBox": "1325,715,17,9",
+                "text": "the"
+              },
+              {
+                "boundingBox": "1346,715,29,12",
+                "text": "proof"
+              },
+              {
+                "boundingBox": "1378,713,291,14",
+                "text": "\"http*//github.com/Anduin2017/SIeepAgent/bIo..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "1228,746,96,10",
+        "lines": [
+          {
+            "boundingBox": "1228,746,96,10",
+            "words": [
+              {
+                "boundingBox": "1228,746,44,10",
+                "text": "metrics"
+              },
+              {
+                "boundingBox": "1276,746,18,10",
+                "text": "km"
+              },
+              {
+                "boundingBox": "1299,746,25,10",
+                "text": "hein"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "674,873,511,13",
+        "lines": [
+          {
+            "boundingBox": "674,873,511,13",
+            "words": [
+              {
+                "boundingBox": "674,873,22,10",
+                "text": "btw"
+              },
+              {
+                "boundingBox": "701,873,28,10",
+                "text": "kuch"
+              },
+              {
+                "boundingBox": "734,873,10,10",
+                "text": "bi"
+              },
+              {
+                "boundingBox": "749,873,17,10",
+                "text": "hai"
+              },
+              {
+                "boundingBox": "771,873,30,10",
+                "text": "band"
+              },
+              {
+                "boundingBox": "806,873,11,10",
+                "text": "ui"
+              },
+              {
+                "boundingBox": "821,873,23,10",
+                "text": "and"
+              },
+              {
+                "boundingBox": "849,876,14,7",
+                "text": "ux"
+              },
+              {
+                "boundingBox": "867,873,40,13",
+                "text": "design"
+              },
+              {
+                "boundingBox": "912,873,37,13",
+                "text": "layout"
+              },
+              {
+                "boundingBox": "954,873,42,10",
+                "text": "kaamal"
+              },
+              {
+                "boundingBox": "1001,873,10,10",
+                "text": "ki"
+              },
+              {
+                "boundingBox": "1016,873,32,10",
+                "text": "banai"
+              },
+              {
+                "boundingBox": "1053,873,17,10",
+                "text": "hai"
+              },
+              {
+                "boundingBox": "1075,873,7,10",
+                "text": "8"
+              },
+              {
+                "boundingBox": "1086,876,32,10",
+                "text": "years"
+              },
+              {
+                "boundingBox": "1123,873,13,10",
+                "text": "ke"
+              },
+              {
+                "boundingBox": "1140,873,30,10",
+                "text": "baad"
+              },
+              {
+                "boundingBox": "1175,873,10,10",
+                "text": "bi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "674,892,213,13",
+        "lines": [
+          {
+            "boundingBox": "674,892,213,13",
+            "words": [
+              {
+                "boundingBox": "674,892,53,10",
+                "text": "beautiful"
+              },
+              {
+                "boundingBox": "732,892,22,10",
+                "text": "and"
+              },
+              {
+                "boundingBox": "759,892,53,13",
+                "text": "stunning"
+              },
+              {
+                "boundingBox": "817,892,17,13",
+                "text": "lag"
+              },
+              {
+                "boundingBox": "840,892,25,10",
+                "text": "raha"
+              },
+              {
+                "boundingBox": "870,892,17,10",
+                "text": "hai"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "1162,898,36,7",
+        "lines": [
+          {
+            "boundingBox": "1162,898,36,7",
+            "words": [
+              {
+                "boundingBox": "1162,898,18,7",
+                "text": "5:29"
+              },
+              {
+                "boundingBox": "1183,898,15,7",
+                "text": "AM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "1544,934,68,13",
+        "lines": [
+          {
+            "boundingBox": "1544,934,68,13",
+            "words": [
+              {
+                "boundingBox": "1544,934,14,10",
+                "text": "hn"
+              },
+              {
+                "boundingBox": "1563,937,13,10",
+                "text": "ye"
+              },
+              {
+                "boundingBox": "1580,935,13,9",
+                "text": "to"
+              },
+              {
+                "boundingBox": "1598,934,14,13",
+                "text": "hy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "1629,752,54,195",
+        "lines": [
+          {
+            "boundingBox": "1629,752,54,7",
+            "words": [
+              {
+                "boundingBox": "1629,752,18,7",
+                "text": "5:25"
+              },
+              {
+                "boundingBox": "1650,752,15,7",
+                "text": "AM"
+              },
+              {
+                "boundingBox": "1672,752,11,7",
+                "text": "U"
+              }
+            ]
+          },
+          {
+            "boundingBox": "1629,940,54,7",
+            "words": [
+              {
+                "boundingBox": "1629,940,18,7",
+                "text": "5:30"
+              },
+              {
+                "boundingBox": "1650,940,15,7",
+                "text": "AM"
+              },
+              {
+                "boundingBox": "1672,940,11,7",
+                "text": "U"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "450,998,16,16",
+        "lines": [
+          {
+            "boundingBox": "450,998,16,16",
+            "words": [
+              {
+                "boundingBox": "450,998,16,16",
+                "text": "O"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "modelVersion": "2021-04-01"
+  },
+  "image_path": "screenshots\\images\\manual_captures\\manual_background_20250713_055500_4376.png"
+}

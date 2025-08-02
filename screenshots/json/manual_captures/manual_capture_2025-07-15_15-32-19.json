@@ -1,0 +1,222 @@
+{
+  "timestamp": "2025-07-15 15:32:19",
+  "window_title": "Settings",
+  "raw_text": "Find a setting\nRere•-re\nIt's all here with Microsoft account\nSign in to connect your favorite Microsoft apps to your device.\nSign in\nRecommended settings\nRecent and commonly used settings\nDate & time\nVPN\nPrinters & scanners",
+  "full_ocr_result": {
+    "language": "en",
+    "textAngle": 0.0,
+    "orientation": "Up",
+    "regions": [
+      {
+        "boundingBox": "28,152,81,13",
+        "lines": [
+          {
+            "boundingBox": "28,152,81,13",
+            "words": [
+              {
+                "boundingBox": "28,152,24,10",
+                "text": "Find"
+              },
+              {
+                "boundingBox": "58,155,5,7",
+                "text": "a"
+              },
+              {
+                "boundingBox": "69,152,40,13",
+                "text": "setting"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "351,177,384,600",
+        "lines": [
+          {
+            "boundingBox": "464,177,47,10",
+            "words": [
+              {
+                "boundingBox": "464,177,47,10",
+                "text": "Rere•-re"
+              }
+            ]
+          },
+          {
+            "boundingBox": "352,298,312,15",
+            "words": [
+              {
+                "boundingBox": "352,299,26,14",
+                "text": "It's"
+              },
+              {
+                "boundingBox": "384,298,19,15",
+                "text": "all"
+              },
+              {
+                "boundingBox": "411,298,39,15",
+                "text": "here"
+              },
+              {
+                "boundingBox": "455,298,38,15",
+                "text": "with"
+              },
+              {
+                "boundingBox": "501,298,86,15",
+                "text": "Microsoft"
+              },
+              {
+                "boundingBox": "593,300,71,13",
+                "text": "account"
+              }
+            ]
+          },
+          {
+            "boundingBox": "352,335,383,14",
+            "words": [
+              {
+                "boundingBox": "352,335,25,14",
+                "text": "Sign"
+              },
+              {
+                "boundingBox": "383,335,9,11",
+                "text": "in"
+              },
+              {
+                "boundingBox": "397,337,12,9",
+                "text": "to"
+              },
+              {
+                "boundingBox": "414,337,49,9",
+                "text": "connect"
+              },
+              {
+                "boundingBox": "467,339,27,10",
+                "text": "your"
+              },
+              {
+                "boundingBox": "498,335,47,11",
+                "text": "favorite"
+              },
+              {
+                "boundingBox": "550,335,57,11",
+                "text": "Microsoft"
+              },
+              {
+                "boundingBox": "612,339,28,10",
+                "text": "apps"
+              },
+              {
+                "boundingBox": "645,337,12,9",
+                "text": "to"
+              },
+              {
+                "boundingBox": "662,339,27,10",
+                "text": "your"
+              },
+              {
+                "boundingBox": "694,335,41,11",
+                "text": "device."
+              }
+            ]
+          },
+          {
+            "boundingBox": "396,436,41,14",
+            "words": [
+              {
+                "boundingBox": "396,436,25,14",
+                "text": "Sign"
+              },
+              {
+                "boundingBox": "427,436,10,11",
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "boundingBox": "351,523,211,20",
+            "words": [
+              {
+                "boundingBox": "351,523,133,15",
+                "text": "Recommended"
+              },
+              {
+                "boundingBox": "492,523,70,20",
+                "text": "settings"
+              }
+            ]
+          },
+          {
+            "boundingBox": "351,559,221,14",
+            "words": [
+              {
+                "boundingBox": "351,560,40,10",
+                "text": "Recent"
+              },
+              {
+                "boundingBox": "396,560,21,10",
+                "text": "and"
+              },
+              {
+                "boundingBox": "423,560,64,13",
+                "text": "commonly"
+              },
+              {
+                "boundingBox": "492,560,28,10",
+                "text": "used"
+              },
+              {
+                "boundingBox": "525,559,47,14",
+                "text": "settings"
+              }
+            ]
+          },
+          {
+            "boundingBox": "394,628,74,11",
+            "words": [
+              {
+                "boundingBox": "394,629,28,10",
+                "text": "Date"
+              },
+              {
+                "boundingBox": "427,629,9,10",
+                "text": "&"
+              },
+              {
+                "boundingBox": "441,628,27,11",
+                "text": "time"
+              }
+            ]
+          },
+          {
+            "boundingBox": "393,698,26,10",
+            "words": [
+              {
+                "boundingBox": "393,698,26,10",
+                "text": "VPN"
+              }
+            ]
+          },
+          {
+            "boundingBox": "394,767,118,10",
+            "words": [
+              {
+                "boundingBox": "394,767,46,10",
+                "text": "Printers"
+              },
+              {
+                "boundingBox": "445,767,9,10",
+                "text": "&"
+              },
+              {
+                "boundingBox": "459,770,53,7",
+                "text": "scanners"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "modelVersion": "2021-04-01"
+  },
+  "image_path": "screenshots\\images\\manual_captures\\manual_background_20250715_153217_9962.png"
+}

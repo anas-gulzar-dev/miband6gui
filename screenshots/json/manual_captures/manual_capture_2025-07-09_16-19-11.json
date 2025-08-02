@@ -1,0 +1,386 @@
+{
+  "timestamp": "2025-07-09 16:19:11",
+  "window_title": "CAM-L21",
+  "raw_text": "CAM-L21\nTelenor @\nBaji Atia\nlast seen today at 4:17 pm\ne 26.111 4:19 PM\n2 mins\n4:21 pm\nToday\nVoice call\n52 secs\n11:43 am\nMissed voice call\nTap to call back\nVoice call\nNo answer\n4:10 pm\nVoice call\nNo answer\n4:15 pm\n0:01\no\n4:15 pm\n4:16 pm W\nPlessage",
+  "full_ocr_result": {
+    "language": "en",
+    "textAngle": 0.0,
+    "orientation": "Up",
+    "regions": [
+      {
+        "boundingBox": "17,11,88,46",
+        "lines": [
+          {
+            "boundingBox": "38,11,47,9",
+            "words": [
+              {
+                "boundingBox": "38,11,47,9",
+                "text": "CAM-L21"
+              }
+            ]
+          },
+          {
+            "boundingBox": "17,40,88,17",
+            "words": [
+              {
+                "boundingBox": "17,41,63,15",
+                "text": "Telenor"
+              },
+              {
+                "boundingBox": "87,40,18,17",
+                "text": "@"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "114,84,203,49",
+        "lines": [
+          {
+            "boundingBox": "115,84,87,24",
+            "words": [
+              {
+                "boundingBox": "115,84,38,24",
+                "text": "Baji"
+              },
+              {
+                "boundingBox": "160,84,42,19",
+                "text": "Atia"
+              }
+            ]
+          },
+          {
+            "boundingBox": "114,116,203,17",
+            "words": [
+              {
+                "boundingBox": "114,116,27,14",
+                "text": "last"
+              },
+              {
+                "boundingBox": "147,119,36,11",
+                "text": "seen"
+              },
+              {
+                "boundingBox": "187,116,45,17",
+                "text": "today"
+              },
+              {
+                "boundingBox": "236,117,15,13",
+                "text": "at"
+              },
+              {
+                "boundingBox": "256,116,33,13",
+                "text": "4:17"
+              },
+              {
+                "boundingBox": "294,119,23,14",
+                "text": "pm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "349,37,175,158",
+        "lines": [
+          {
+            "boundingBox": "349,37,175,21",
+            "words": [
+              {
+                "boundingBox": "349,40,25,18",
+                "text": "e"
+              },
+              {
+                "boundingBox": "379,37,28,21",
+                "text": "26.111"
+              },
+              {
+                "boundingBox": "455,42,36,14",
+                "text": "4:19"
+              },
+              {
+                "boundingBox": "498,42,26,14",
+                "text": "PM"
+              }
+            ]
+          },
+          {
+            "boundingBox": "351,167,60,15",
+            "words": [
+              {
+                "boundingBox": "351,167,11,15",
+                "text": "2"
+              },
+              {
+                "boundingBox": "369,167,42,15",
+                "text": "mins"
+              }
+            ]
+          },
+          {
+            "boundingBox": "430,178,61,17",
+            "words": [
+              {
+                "boundingBox": "430,178,30,13",
+                "text": "4:21"
+              },
+              {
+                "boundingBox": "468,181,23,14",
+                "text": "pm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "120,242,176,455",
+        "lines": [
+          {
+            "boundingBox": "245,242,51,19",
+            "words": [
+              {
+                "boundingBox": "245,242,51,19",
+                "text": "Today"
+              }
+            ]
+          },
+          {
+            "boundingBox": "120,307,88,16",
+            "words": [
+              {
+                "boundingBox": "120,307,52,16",
+                "text": "Voice"
+              },
+              {
+                "boundingBox": "177,307,31,16",
+                "text": "call"
+              }
+            ]
+          },
+          {
+            "boundingBox": "122,336,69,15",
+            "words": [
+              {
+                "boundingBox": "122,336,21,15",
+                "text": "52"
+              },
+              {
+                "boundingBox": "150,339,41,12",
+                "text": "secs"
+              }
+            ]
+          },
+          {
+            "boundingBox": "210,347,70,14",
+            "words": [
+              {
+                "boundingBox": "210,347,41,14",
+                "text": "11:43"
+              },
+              {
+                "boundingBox": "256,350,24,11",
+                "text": "am"
+              }
+            ]
+          },
+          {
+            "boundingBox": "121,649,157,17",
+            "words": [
+              {
+                "boundingBox": "121,649,65,17",
+                "text": "Missed"
+              },
+              {
+                "boundingBox": "192,650,49,16",
+                "text": "voice"
+              },
+              {
+                "boundingBox": "247,649,31,17",
+                "text": "call"
+              }
+            ]
+          },
+          {
+            "boundingBox": "121,677,143,20",
+            "words": [
+              {
+                "boundingBox": "121,678,32,19",
+                "text": "Tap"
+              },
+              {
+                "boundingBox": "159,679,18,14",
+                "text": "to"
+              },
+              {
+                "boundingBox": "183,677,30,16",
+                "text": "call"
+              },
+              {
+                "boundingBox": "221,677,43,16",
+                "text": "back"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "315,421,176,158",
+        "lines": [
+          {
+            "boundingBox": "315,421,88,16",
+            "words": [
+              {
+                "boundingBox": "315,421,52,16",
+                "text": "Voice"
+              },
+              {
+                "boundingBox": "372,421,31,16",
+                "text": "call"
+              }
+            ]
+          },
+          {
+            "boundingBox": "317,450,95,15",
+            "words": [
+              {
+                "boundingBox": "317,450,24,15",
+                "text": "No"
+              },
+              {
+                "boundingBox": "348,453,64,12",
+                "text": "answer"
+              }
+            ]
+          },
+          {
+            "boundingBox": "430,461,61,17",
+            "words": [
+              {
+                "boundingBox": "430,461,32,14",
+                "text": "4:10"
+              },
+              {
+                "boundingBox": "468,464,23,14",
+                "text": "pm"
+              }
+            ]
+          },
+          {
+            "boundingBox": "315,535,88,17",
+            "words": [
+              {
+                "boundingBox": "315,535,52,17",
+                "text": "Voice"
+              },
+              {
+                "boundingBox": "372,535,31,17",
+                "text": "call"
+              }
+            ]
+          },
+          {
+            "boundingBox": "317,564,95,15",
+            "words": [
+              {
+                "boundingBox": "317,564,24,15",
+                "text": "No"
+              },
+              {
+                "boundingBox": "348,568,64,11",
+                "text": "answer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "258,690,85,264",
+        "lines": [
+          {
+            "boundingBox": "281,690,62,16",
+            "words": [
+              {
+                "boundingBox": "281,690,33,13",
+                "text": "4:15"
+              },
+              {
+                "boundingBox": "319,693,24,13",
+                "text": "pm"
+              }
+            ]
+          },
+          {
+            "boundingBox": "258,808,29,13",
+            "words": [
+              {
+                "boundingBox": "258,808,29,13",
+                "text": "0:01"
+              }
+            ]
+          },
+          {
+            "boundingBox": "258,928,26,26",
+            "words": [
+              {
+                "boundingBox": "258,928,26,26",
+                "text": "o"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "402,576,90,249",
+        "lines": [
+          {
+            "boundingBox": "430,576,61,16",
+            "words": [
+              {
+                "boundingBox": "430,576,32,13",
+                "text": "4:15"
+              },
+              {
+                "boundingBox": "468,579,23,13",
+                "text": "pm"
+              }
+            ]
+          },
+          {
+            "boundingBox": "402,807,90,18",
+            "words": [
+              {
+                "boundingBox": "402,808,33,13",
+                "text": "4:16"
+              },
+              {
+                "boundingBox": "440,811,23,14",
+                "text": "pm"
+              },
+              {
+                "boundingBox": "470,807,22,14",
+                "text": "W"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "boundingBox": "78,854,107,36",
+        "lines": [
+          {
+            "boundingBox": "78,854,107,36",
+            "words": [
+              {
+                "boundingBox": "78,854,107,36",
+                "text": "Plessage"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "modelVersion": "2021-04-01"
+  },
+  "image_path": "screenshots\\images\\manual_captures\\manual_background_20250709_161908_8035.png"
+}
